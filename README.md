@@ -1,7 +1,10 @@
 # GUI_calc_using-tkinter
-<br/>
+<br>
+
 A very simple GUI calc using tkinter.
-<br/>
+<br>
+
 __NOTE__: Kindly use the latest version.
-<br/>
+<br>
+
 _Any modifications are welcome_
