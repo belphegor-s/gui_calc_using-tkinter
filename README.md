@@ -9,7 +9,7 @@ __NOTE__: Kindly use the latest version of ```python``` , ```pip``` and ```tkint
 
 _Any modifications are welcome_  @belphegor-s
 
-### Some Snaps :
+### Some Snapshots :
 
 ![py](https://github.com/belphegor-s/gui_calc_using-tkinter/blob/master/assets/p1.JPG)
 
