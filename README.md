@@ -1,4 +1,4 @@
-# GUI Calculator using tkinter
+# GUI Calculator using tkinter (Python Module)
 
 
 A very simple GUI calculator using tkinter.
