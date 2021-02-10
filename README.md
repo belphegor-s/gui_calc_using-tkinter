@@ -7,7 +7,7 @@ A very simple GUI calculator using tkinter.
 __NOTE__: Kindly use the latest version of ```python``` , ```pip``` and ```tkinter```
 
 
-_Any modifications are welcome_  @belphegor-s
+_Any modifications are welcome_  **@belphegor-s**
 
 ### Some Snapshots :
 
