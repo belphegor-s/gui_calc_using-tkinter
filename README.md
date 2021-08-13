@@ -11,8 +11,8 @@ _Any modifications are welcome_  **@belphegor-s**
 
 ### Some Snaps :
 
-![py](https://github.com/belphegor-s/gui_calc_using-tkinter/blob/master/assets/p1.JPG)
+![py](https://github.com/belphegor-s/gui_calc_using-tkinter/blob/master/assets/problem.png)
 
-![py](https://github.com/belphegor-s/gui_calc_using-tkinter/blob/master/assets/result.JPG)
+![py](https://github.com/belphegor-s/gui_calc_using-tkinter/blob/master/assets/result.png)
 
 
